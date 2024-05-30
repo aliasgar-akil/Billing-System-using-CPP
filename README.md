@@ -1,2 +1,2 @@
 # Billing-System-using-CPP
-Designed an electronic Billing system using C++ which could potentially be implemented in supermarkets and stores. The overall system comprises of the administrator and the customer module. 
+Designed an electronic billing system using C++ as my high school project. The overall system comprises of the administrator and the customer module. 
